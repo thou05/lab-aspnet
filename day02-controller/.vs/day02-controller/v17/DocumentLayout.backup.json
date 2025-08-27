@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\day02-controller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|d:\\document\\lab-aspnet\\day02-controller\\day02-controller\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|d:\\document\\lab-aspnet\\day02-controller\\day02-controller\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|d:\\document\\lab-aspnet\\day02-controller\\day02-controller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|d:\\document\\lab-aspnet\\day02-controller\\day02-controller\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|d:\\document\\lab-aspnet\\day02-controller\\day02-controller\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|d:\\document\\lab-aspnet\\day02-controller\\day02-controller\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|d:\\document\\lab-aspnet\\day02-controller\\day02-controller\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|d:\\document\\lab-aspnet\\day02-controller\\day02-controller\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|d:\\document\\lab-aspnet\\day02-controller\\day02-controller\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|d:\\document\\lab-aspnet\\day02-controller\\day02-controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|d:\\document\\lab-aspnet\\day02-controller\\day02-controller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5B4E880-D36A-421B-8EFC-120AA52DCF46}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "day02-controller\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\User\\Register.cshtml*",
+              "RelativeToolTip": "day02-controller\\Views\\User\\Register.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T16:42:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "day02-controller\\Views\\Product\\List.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "day02-controller\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T16:18:06.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "day02-controller\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "day02-controller\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:13:45.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "day02-controller\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "day02-controller\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:14:02.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "day02-controller\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "day02-controller\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T16:17:42.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "day02-controller\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "day02-controller\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T16:18:25.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "day02-controller\\Views\\User\\Profile.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "day02-controller\\Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T16:37:42.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "day02-controller\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "day02-controller\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T16:37:23.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "day02-controller\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "day02-controller\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:16:18.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Program.cs",
+              "RelativeDocumentMoniker": "day02-controller\\Program.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\Program.cs",
+              "RelativeToolTip": "day02-controller\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:16:13.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\appsettings.json",
+              "RelativeDocumentMoniker": "day02-controller\\appsettings.json",
+              "ToolTip": "D:\\Document\\lab-aspnet\\day02-controller\\day02-controller\\appsettings.json",
+              "RelativeToolTip": "day02-controller\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T16:16:09.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
