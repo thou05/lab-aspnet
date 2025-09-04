@@ -1,0 +1,34 @@
+﻿@model List<lab03_practice.Models.Category>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+@* <ul class="list-group">
+    @foreach (var item in Model)
+    {
+        <li class="list-group-item">@item.Name</li>
+    }
+</ul>
+<div class="my-3"></div>
+
+<img src="/images/meow.jpg" alt="" width="30" /> *@
+
+<table class="table table-bordered ">
+    <thead class="table-primary mx-auto">
+        <tr>
+            <th>Danh mục sản phẩm</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="my-1"></div>
+<img src="/images/meow.jpg" alt="" class="img-fluid w-100" />

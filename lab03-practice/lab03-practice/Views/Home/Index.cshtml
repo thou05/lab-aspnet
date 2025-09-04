@@ -1,0 +1,59 @@
+﻿@{
+    Layout = "mylayout";
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col col-lg-2">
+           
+            <div id="data-from-ajax" class="row"></div>
+
+            @section Scripts {
+                <script>
+                    $("#loadAjax").ready(function () {
+                        $('#data-from-ajax').load("/Category/Category");
+                    });
+                </script>
+            }
+        </div>
+          
+     
+        <div class="col-12 col-lg-10">
+            <h5 class="alert alert-primary mx-auto p-2">Sản phẩm nổi bật</h5>
+
+            <div class="row g-3 my-3">
+              
+                @foreach (var item in Model)
+                {
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                        <div class="card h-100">
+                            <img src="@item.Image" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h6 class="card-text">@item.Name</h6>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+            
+            <h5 class="alert alert-primary mx-auto p-2">Sản phẩm nổi bật</h5>
+            @await Component.InvokeAsync("Product")
+        </div>
+    </div>
+
+    
+</div>
+
+
+
+@* <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+    <div class="img-thumbnail">
+        <img src="@item.Image" alt="" width="200" />
+
+        <div class="caption-top">
+            <h6>@item.Name</h6>
+
+        </div>
+    </div>
+</div> *@
