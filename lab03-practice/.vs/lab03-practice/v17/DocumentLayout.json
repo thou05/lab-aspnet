@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab03-practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|d:\\document\\lab-aspnet\\lab03-practice\\lab03-practice\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|solutionrelative:lab03-practice\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|d:\\document\\lab-aspnet\\lab03-practice\\lab03-practice\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|solutionrelative:lab03-practice\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|d:\\document\\lab-aspnet\\lab03-practice\\lab03-practice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|solutionrelative:lab03-practice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|d:\\document\\lab-aspnet\\lab03-practice\\lab03-practice\\views\\category\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|solutionrelative:lab03-practice\\views\\category\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|d:\\document\\lab-aspnet\\lab03-practice\\lab03-practice\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|solutionrelative:lab03-practice\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|d:\\document\\lab-aspnet\\lab03-practice\\lab03-practice\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|solutionrelative:lab03-practice\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{558F78BE-4179-4D86-BB27-4FD566472599}|lab03-practice\\lab03-practice.csproj|d:\\document\\lab-aspnet\\lab03-practice\\lab03-practice\\views\\shared\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -77,11 +77,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Footer.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\Views\\Shared\\Footer.cshtml",
               "RelativeDocumentMoniker": "lab03-practice\\Views\\Shared\\Footer.cshtml",
@@ -89,25 +89,24 @@
               "RelativeToolTip": "lab03-practice\\Views\\Shared\\Footer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T15:58:11.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T15:58:11.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "lab03-practice\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "lab03-practice\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "lab03-practice\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-04T14:21:56.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Category.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\Views\\Category\\Category.cshtml",
               "RelativeDocumentMoniker": "lab03-practice\\Views\\Category\\Category.cshtml",
@@ -115,21 +114,19 @@
               "RelativeToolTip": "lab03-practice\\Views\\Category\\Category.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T14:30:15.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:30:15.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "mylayout.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\Views\\Shared\\mylayout.cshtml",
               "RelativeDocumentMoniker": "lab03-practice\\Views\\Shared\\mylayout.cshtml",
               "ToolTip": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\Views\\Shared\\mylayout.cshtml",
               "RelativeToolTip": "lab03-practice\\Views\\Shared\\mylayout.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwCMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T14:17:14.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:17:14.14Z"
             },
             {
               "$type": "Document",
@@ -141,8 +138,7 @@
               "RelativeToolTip": "lab03-practice\\Views\\Shared\\Components\\Product\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T14:52:04.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:52:04.947Z"
             },
             {
               "$type": "Document",
@@ -152,8 +148,7 @@
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAPkUAAAAAAAAAAAtwBEVAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-09-04T15:52:04.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T15:52:04.537Z"
             },
             {
               "$type": "Document",
@@ -165,8 +160,7 @@
               "RelativeToolTip": "lab03-practice\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T15:12:18.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T15:12:18.545Z"
             },
             {
               "$type": "Document",
@@ -178,8 +172,7 @@
               "RelativeToolTip": "lab03-practice\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:19:56.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:19:56.446Z"
             },
             {
               "$type": "Document",
@@ -191,8 +184,7 @@
               "RelativeToolTip": "lab03-practice\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:18:58.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:18:58.114Z"
             },
             {
               "$type": "Document",
@@ -204,8 +196,7 @@
               "RelativeToolTip": "lab03-practice\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:27:44.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:27:44.723Z"
             },
             {
               "$type": "Document",
@@ -217,21 +208,19 @@
               "RelativeToolTip": "lab03-practice\\ViewComponents\\ProductViewComponent.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:50:26.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:50:26.593Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "lab03-practice",
+              "Title": "lab03-practice.csproj",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\lab03-practice.csproj",
               "RelativeDocumentMoniker": "lab03-practice\\lab03-practice.csproj",
               "ToolTip": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\lab03-practice.csproj",
               "RelativeToolTip": "lab03-practice\\lab03-practice.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-04T15:09:15.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T15:09:15.218Z"
             },
             {
               "$type": "Document",
@@ -243,8 +232,7 @@
               "RelativeToolTip": "lab03-practice\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:04:30.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:04:30.233Z"
             },
             {
               "$type": "Document",
@@ -256,8 +244,7 @@
               "RelativeToolTip": "lab03-practice\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:12:58.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:12:58.642Z"
             },
             {
               "$type": "Document",
@@ -269,8 +256,7 @@
               "RelativeToolTip": "lab03-practice\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T14:19:06.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:19:06.669Z"
             },
             {
               "$type": "Document",
@@ -282,8 +268,7 @@
               "RelativeToolTip": "lab03-practice\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T14:19:05.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:19:05.269Z"
             },
             {
               "$type": "Document",
@@ -295,8 +280,7 @@
               "RelativeToolTip": "lab03-practice\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T14:19:01.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:19:01.108Z"
             }
           ]
         }

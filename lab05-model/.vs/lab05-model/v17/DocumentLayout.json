@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab05-model\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|d:\\document\\lab-aspnet\\lab05-model\\lab05-model\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|solutionrelative:lab05-model\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|d:\\document\\lab-aspnet\\lab05-model\\lab05-model\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|solutionrelative:lab05-model\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|d:\\document\\lab-aspnet\\lab05-model\\lab05-model\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|solutionrelative:lab05-model\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|d:\\document\\lab-aspnet\\lab05-model\\lab05-model\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|solutionrelative:lab05-model\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|d:\\document\\lab-aspnet\\lab05-model\\lab05-model\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|solutionrelative:lab05-model\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|d:\\document\\lab-aspnet\\lab05-model\\lab05-model\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|solutionrelative:lab05-model\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|d:\\document\\lab-aspnet\\lab05-model\\lab05-model\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|solutionrelative:lab05-model\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|d:\\document\\lab-aspnet\\lab05-model\\lab05-model\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872D0F59-41F0-4C67-9B39-A32609E8226C}|lab05-model\\lab05-model.csproj|solutionrelative:lab05-model\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "lab05-model\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "lab05-model\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T15:03:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "lab05-model\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "lab05-model\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T15:03:05.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "lab05-model\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "lab05-model\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T15:02:31.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab05-model\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "lab05-model\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T15:01:54.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab05-model\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "lab05-model\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T14:57:25.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lab05-model\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lab05-model\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:53:51.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "lab05-model\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "lab05-model\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:43:43.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "lab05-model\\Models\\Employee.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab05-model\\lab05-model\\Models\\Employee.cs",
+              "RelativeToolTip": "lab05-model\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:40:31.241Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
