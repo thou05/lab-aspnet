@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab06-annotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|d:\\document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|solutionrelative:lab06-annotation\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|d:\\document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|solutionrelative:lab06-annotation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|d:\\document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|solutionrelative:lab06-annotation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|d:\\document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|solutionrelative:lab06-annotation\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|d:\\document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|solutionrelative:lab06-annotation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|d:\\document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C990751-2073-4506-8904-1FA009F2CE12}|lab06-annotation\\lab06-annotation.csproj|solutionrelative:lab06-annotation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "lab06-annotation\\Models\\Branch.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Models\\Branch.cs",
+              "RelativeToolTip": "lab06-annotation\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:18:31.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "lab06-annotation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "lab06-annotation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T06:16:34.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab06-annotation\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "lab06-annotation\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T05:47:10.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "lab06-annotation\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "lab06-annotation\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:40:18.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lab06-annotation\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lab06-annotation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:39:55.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "lab06-annotation\\Models\\Student.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab06-annotation\\lab06-annotation\\Models\\Student.cs",
+              "RelativeToolTip": "lab06-annotation\\Models\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:29:06.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

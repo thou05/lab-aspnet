@@ -75,8 +75,7 @@
               "RelativeToolTip": "lab05-model\\Views\\Employee\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T15:03:05.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:03:05.275Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "lab05-model\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T15:02:31.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:02:31.619Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "lab05-model\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T15:01:54.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:01:54.263Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "lab05-model\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T14:57:25.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T14:57:25.255Z"
             },
             {
               "$type": "Document",
@@ -127,12 +123,7 @@
               "RelativeToolTip": "lab05-model\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T14:53:51.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2025-09-24T14:53:51.451Z"
             },
             {
               "$type": "Document",
@@ -144,8 +135,7 @@
               "RelativeToolTip": "lab05-model\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T21:43:43.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T21:43:43.946Z"
             },
             {
               "$type": "Document",
@@ -157,8 +147,11 @@
               "RelativeToolTip": "lab05-model\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T21:40:31.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T21:40:31.241Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }
