@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\views\\loaisanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\views\\loaisanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\views\\loaisanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\views\\loaisanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\models\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\models\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\models\\cthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\models\\cthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\visual-programming\\code\\buoi07-entityfrw\\buoi07-entityfrw\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\appsettings.json",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\appsettings.json",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\appsettings.json",
+              "RelativeToolTip": "Buoi07-entityfrw\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T01:59:13.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Buoi07-entityfrw\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:55:52.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Buoi07-entityfrw\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:55:42.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Views\\LoaiSanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Views\\LoaiSanPhams\\Index.cshtml",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Views\\LoaiSanPhams\\Index.cshtml",
+              "RelativeToolTip": "Buoi07-entityfrw\\Views\\LoaiSanPhams\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:50:27.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Views\\LoaiSanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Views\\LoaiSanPhams\\Create.cshtml",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Views\\LoaiSanPhams\\Create.cshtml",
+              "RelativeToolTip": "Buoi07-entityfrw\\Views\\LoaiSanPhams\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:48:09.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoaiSanPhamsController.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Controllers\\LoaiSanPhamsController.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Controllers\\LoaiSanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:46:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:43:40.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CtHoaDon.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\CtHoaDon.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\CtHoaDon.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\CtHoaDon.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Models\\CtHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:24:27.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Program.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Program.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T00:56:38.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:24:18.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\KhachHang.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:24:17.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:24:05.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:23:55.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\HoaDon.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Models\\HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:23:54.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebDbContext.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\WebDbContext.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\WebDbContext.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Buoi07-entityfrw\\Buoi07-entityfrw\\Models\\WebDbContext.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Models\\WebDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:23:28.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
