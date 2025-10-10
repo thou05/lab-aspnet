@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab08-codefirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\models\\eshopv10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\models\\eshopv10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\areas\\admins\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\areas\\admins\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\areas\\admins\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\areas\\admins\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|d:\\document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AB5D3-6FCF-4C91-847D-51FCE28B5591}|lab08-codefirst\\lab08-codefirst.csproj|solutionrelative:lab08-codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T00:28:14.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "lab08-codefirst\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:09:36.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T00:42:06.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lab08-codefirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T23:57:46.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "lab08-codefirst\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T23:58:35.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T00:44:33.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "lab08-codefirst\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T00:40:19.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Models\\Category.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\Category.cs",
+              "RelativeToolTip": "lab08-codefirst\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:09:46.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Program.cs",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Program.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Program.cs",
+              "RelativeToolTip": "lab08-codefirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:22:39.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\appsettings.json",
+              "RelativeDocumentMoniker": "lab08-codefirst\\appsettings.json",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\appsettings.json",
+              "RelativeToolTip": "lab08-codefirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T10:22:45.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "lab08-codefirst\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T00:40:14.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "lab08-codefirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T00:40:13.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EShopV10.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\EShopV10.cs",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Models\\EShopV10.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\EShopV10.cs",
+              "RelativeToolTip": "lab08-codefirst\\Models\\EShopV10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:21:32.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "lab08-codefirst\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T01:28:14.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "lab08-codefirst\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "lab08-codefirst\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-09T23:28:20.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Models\\Order.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\Order.cs",
+              "RelativeToolTip": "lab08-codefirst\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:12:52.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "lab08-codefirst\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:26:07.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Models\\Customer.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\Customer.cs",
+              "RelativeToolTip": "lab08-codefirst\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:10:03.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "lab08-codefirst\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:09:29.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "lab08-codefirst\\Models\\Product.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab08-codefirst\\lab08-codefirst\\Models\\Product.cs",
+              "RelativeToolTip": "lab08-codefirst\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:08:44.221Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
