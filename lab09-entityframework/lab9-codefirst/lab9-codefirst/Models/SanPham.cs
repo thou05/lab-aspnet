@@ -13,7 +13,7 @@ namespace lab9_codefirst.Models
         public decimal DonGia { get; set; } = decimal.Zero;
         public string TrangThai { get; set; }
         public int MaLoai { get; set; }
-        public virtual LoaiSanPham? LoaiSanPham { get; set; }
-        public virtual List<ChiTietHD>? ChiTietHDs { get; set; }
+        public virtual LoaiSanPham LoaiSanPham { get; set; }
+        public virtual List<ChiTietHD> ChiTietHDs { get; set; }
     }
 }

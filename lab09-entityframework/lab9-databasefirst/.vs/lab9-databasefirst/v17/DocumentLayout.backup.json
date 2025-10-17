@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4EA06CA9-4B76-4530-8E9C-FA3825217EC9}|lab9-databasefirst\\lab9-databasefirst.csproj|d:\\document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA06CA9-4B76-4530-8E9C-FA3825217EC9}|lab9-databasefirst\\lab9-databasefirst.csproj|solutionrelative:lab9-databasefirst\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA06CA9-4B76-4530-8E9C-FA3825217EC9}|lab9-databasefirst\\lab9-databasefirst.csproj|d:\\document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA06CA9-4B76-4530-8E9C-FA3825217EC9}|lab9-databasefirst\\lab9-databasefirst.csproj|solutionrelative:lab9-databasefirst\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA06CA9-4B76-4530-8E9C-FA3825217EC9}|lab9-databasefirst\\lab9-databasefirst.csproj|d:\\document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA06CA9-4B76-4530-8E9C-FA3825217EC9}|lab9-databasefirst\\lab9-databasefirst.csproj|solutionrelative:lab9-databasefirst\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA06CA9-4B76-4530-8E9C-FA3825217EC9}|lab9-databasefirst\\lab9-databasefirst.csproj|d:\\document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\controllers\\cthoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA06CA9-4B76-4530-8E9C-FA3825217EC9}|lab9-databasefirst\\lab9-databasefirst.csproj|solutionrelative:lab9-databasefirst\\controllers\\cthoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EA06CA9-4B76-4530-8E9C-FA3825217EC9}|lab9-databasefirst\\lab9-databasefirst.csproj|d:\\document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EA06CA9-4B76-4530-8E9C-FA3825217EC9}|lab9-databasefirst\\lab9-databasefirst.csproj|solutionrelative:lab9-databasefirst\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,19 +67,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "QuanTrisController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Controllers\\QuanTrisController.cs",
+              "RelativeDocumentMoniker": "lab9-databasefirst\\Controllers\\QuanTrisController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Controllers\\QuanTrisController.cs",
+              "RelativeToolTip": "lab9-databasefirst\\Controllers\\QuanTrisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:44:57.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "lab9-databasefirst\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "lab9-databasefirst\\Controllers\\KhachHangsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:43:49.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDonsController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Controllers\\HoaDonsController.cs",
+              "RelativeDocumentMoniker": "lab9-databasefirst\\Controllers\\HoaDonsController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Controllers\\HoaDonsController.cs",
+              "RelativeToolTip": "lab9-databasefirst\\Controllers\\HoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:41:35.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CtHoaDonsController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Controllers\\CtHoaDonsController.cs",
+              "RelativeDocumentMoniker": "lab9-databasefirst\\Controllers\\CtHoaDonsController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Controllers\\CtHoaDonsController.cs",
+              "RelativeToolTip": "lab9-databasefirst\\Controllers\\CtHoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:40:04.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoaiSanPhamsController.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Controllers\\LoaiSanPhamsController.cs",
               "RelativeDocumentMoniker": "lab9-databasefirst\\Controllers\\LoaiSanPhamsController.cs",
               "ToolTip": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Controllers\\LoaiSanPhamsController.cs",
               "RelativeToolTip": "lab9-databasefirst\\Controllers\\LoaiSanPhamsController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwDMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-11T15:29:53.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "SanPhamsController.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Controllers\\SanPhamsController.cs",
               "RelativeDocumentMoniker": "lab9-databasefirst\\Controllers\\SanPhamsController.cs",
@@ -71,12 +143,11 @@
               "RelativeToolTip": "lab9-databasefirst\\Controllers\\SanPhamsController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T15:01:40.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T15:01:40.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Lab09shopingcartContext.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Models\\Lab09shopingcartContext.cs",
               "RelativeDocumentMoniker": "lab9-databasefirst\\Models\\Lab09shopingcartContext.cs",
@@ -84,12 +155,11 @@
               "RelativeToolTip": "lab9-databasefirst\\Models\\Lab09shopingcartContext.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T14:38:24.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T14:38:24.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "QuanTri.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Models\\QuanTri.cs",
               "RelativeDocumentMoniker": "lab9-databasefirst\\Models\\QuanTri.cs",
@@ -97,12 +167,11 @@
               "RelativeToolTip": "lab9-databasefirst\\Models\\QuanTri.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T14:53:50.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T14:53:50.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\appsettings.json",
               "RelativeDocumentMoniker": "lab9-databasefirst\\appsettings.json",
@@ -110,12 +179,11 @@
               "RelativeToolTip": "lab9-databasefirst\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-11T14:27:50.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T14:27:50.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab09-entityframework\\lab9-databasefirst\\lab9-databasefirst\\Program.cs",
               "RelativeDocumentMoniker": "lab9-databasefirst\\Program.cs",
@@ -123,12 +191,7 @@
               "RelativeToolTip": "lab9-databasefirst\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T14:27:19.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2025-10-11T14:27:19.906Z"
             }
           ]
         },
@@ -138,11 +201,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",

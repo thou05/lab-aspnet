@@ -11,6 +11,6 @@ namespace lab9_codefirst.Models
         public string MaLoai { get; set; }
         public string TenLoai { get; set; }
         public bool TrangThai { get; set; }
-        public virtual List<SanPham>? SanPhams { get; set; }
+        public virtual List<SanPham> SanPhams { get; set; }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab9-databasefirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b256ded571a2becee227bcb90c8346073d78b56a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ac267a7d86503b5104ecc4267202741b0fc137a")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab9-databasefirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab9-databasefirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
