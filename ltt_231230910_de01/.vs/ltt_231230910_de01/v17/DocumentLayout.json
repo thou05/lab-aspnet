@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\views\\lttcomputers\\lttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\views\\lttcomputers\\lttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\views\\lttcomputers\\lttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\views\\lttcomputers\\lttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\views\\lttcomputers\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\views\\lttcomputers\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\views\\lttcomputers\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\views\\lttcomputers\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\models\\ltt_231230910_de01dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\models\\ltt_231230910_de01dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\views\\lttcomputers\\lttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\views\\lttcomputers\\lttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024015218_v5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ltt_231230910_de01\\Migrations\\20251024015218_v5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\models\\lttcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\models\\lttcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\controllers\\lttcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\controllers\\lttcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\controllers\\ltthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\controllers\\ltthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\wwwroot\\img\\pic2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\wwwroot\\img\\pic2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\wwwroot\\img\\pic3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\wwwroot\\img\\pic3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\views\\shared\\_lttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\views\\shared\\_lttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\views\\ltthome\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\views\\ltthome\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024013850_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ltt_231230910_de01\\Migrations\\20251024013850_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\views\\ltthome\\lttcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\views\\ltthome\\lttcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\views\\ltthome\\lttprivacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\views\\ltthome\\lttprivacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024010346_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ltt_231230910_de01\\Migrations\\20251024010346_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024010137_v.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ltt_231230910_de01\\Migrations\\20251024010137_v.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|d:\\document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1957A2-8D81-4D16-AEBF-4BBC5BCA44E5}|ltt_231230910_de01\\ltt_231230910_de01.csproj|solutionrelative:ltt_231230910_de01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LttCreate.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttComputers\\LttCreate.cshtml",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Views\\LttComputers\\LttCreate.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttComputers\\LttCreate.cshtml",
+              "RelativeToolTip": "ltt_231230910_de01\\Views\\LttComputers\\LttCreate.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:08:09.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LttEdit.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttComputers\\LttEdit.cshtml",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Views\\LttComputers\\LttEdit.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttComputers\\LttEdit.cshtml",
+              "RelativeToolTip": "ltt_231230910_de01\\Views\\LttComputers\\LttEdit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:08:54.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LttIndex.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttComputers\\LttIndex.cshtml",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Views\\LttComputers\\LttIndex.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttComputers\\LttIndex.cshtml",
+              "RelativeToolTip": "ltt_231230910_de01\\Views\\LttComputers\\LttIndex.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:09:20.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LttDetails.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttComputers\\LttDetails.cshtml",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Views\\LttComputers\\LttDetails.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttComputers\\LttDetails.cshtml",
+              "RelativeToolTip": "ltt_231230910_de01\\Views\\LttComputers\\LttDetails.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:08:43.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LttDelete.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttComputers\\LttDelete.cshtml",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Views\\LttComputers\\LttDelete.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttComputers\\LttDelete.cshtml",
+              "RelativeToolTip": "ltt_231230910_de01\\Views\\LttComputers\\LttDelete.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAEwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:08:21.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ltt_231230910_de01DBContext.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Models\\Ltt_231230910_de01DBContext.cs",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Models\\Ltt_231230910_de01DBContext.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Models\\Ltt_231230910_de01DBContext.cs",
+              "RelativeToolTip": "ltt_231230910_de01\\Models\\Ltt_231230910_de01DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:58:45.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251024015218_v5.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024015218_v5.cs",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Migrations\\20251024015218_v5.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024015218_v5.cs",
+              "RelativeToolTip": "ltt_231230910_de01\\Migrations\\20251024015218_v5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:52:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LttComputer.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Models\\LttComputer.cs",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Models\\LttComputer.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Models\\LttComputer.cs",
+              "RelativeToolTip": "ltt_231230910_de01\\Models\\LttComputer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:55:37.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LttHomeController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Controllers\\LttHomeController.cs",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Controllers\\LttHomeController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Controllers\\LttHomeController.cs",
+              "RelativeToolTip": "ltt_231230910_de01\\Controllers\\LttHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:44:54.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LttComputersController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Controllers\\LttComputersController.cs",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Controllers\\LttComputersController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Controllers\\LttComputersController.cs",
+              "RelativeToolTip": "ltt_231230910_de01\\Controllers\\LttComputersController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwI4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:05:15.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pic2.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\wwwroot\\img\\pic2.jpg",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\wwwroot\\img\\pic2.jpg",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\wwwroot\\img\\pic2.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "RelativeToolTip": "ltt_231230910_de01\\wwwroot\\img\\pic2.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-24T01:39:23.098Z",
+              "EditorCaption": " - Bitmap [800x800, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pic3.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\wwwroot\\img\\pic3.jpg",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\wwwroot\\img\\pic3.jpg",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\wwwroot\\img\\pic3.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "RelativeToolTip": "ltt_231230910_de01\\wwwroot\\img\\pic3.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-24T01:43:08.761Z",
+              "EditorCaption": " - Bitmap [800x800, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ltt_231230910_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:40:04.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LttIndex.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttHome\\LttIndex.cshtml",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Views\\LttHome\\LttIndex.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttHome\\LttIndex.cshtml",
+              "RelativeToolTip": "ltt_231230910_de01\\Views\\LttHome\\LttIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:43:47.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_lttLayout.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\Shared\\_lttLayout.cshtml",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Views\\Shared\\_lttLayout.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\Shared\\_lttLayout.cshtml",
+              "RelativeToolTip": "ltt_231230910_de01\\Views\\Shared\\_lttLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:48:24.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251024013850_v3.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024013850_v3.cs",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Migrations\\20251024013850_v3.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024013850_v3.cs",
+              "RelativeToolTip": "ltt_231230910_de01\\Migrations\\20251024013850_v3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:38:50.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LttContact.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttHome\\LttContact.cshtml",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Views\\LttHome\\LttContact.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttHome\\LttContact.cshtml",
+              "RelativeToolTip": "ltt_231230910_de01\\Views\\LttHome\\LttContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:47:57.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Program.cs",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Program.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Program.cs",
+              "RelativeToolTip": "ltt_231230910_de01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:53:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LttPrivacy.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttHome\\LttPrivacy.cshtml",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Views\\LttHome\\LttPrivacy.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\LttHome\\LttPrivacy.cshtml",
+              "RelativeToolTip": "ltt_231230910_de01\\Views\\LttHome\\LttPrivacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:43:50.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251024010346_v2.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024010346_v2.cs",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Migrations\\20251024010346_v2.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024010346_v2.cs",
+              "RelativeToolTip": "ltt_231230910_de01\\Migrations\\20251024010346_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:03:47.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\appsettings.Development.json",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\appsettings.Development.json",
+              "RelativeToolTip": "ltt_231230910_de01\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T00:53:23.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\appsettings.json",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\appsettings.json",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\appsettings.json",
+              "RelativeToolTip": "ltt_231230910_de01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T00:51:10.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251024010137_v.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024010137_v.cs",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Migrations\\20251024010137_v.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Migrations\\20251024010137_v.cs",
+              "RelativeToolTip": "ltt_231230910_de01\\Migrations\\20251024010137_v.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:01:38.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ltt_231230910_de01\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\ltt_231230910_de01\\ltt_231230910_de01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ltt_231230910_de01\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T00:53:22.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1038,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

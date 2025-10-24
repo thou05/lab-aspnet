@@ -1,0 +1,71 @@
+﻿@model IEnumerable<ltt_231230910_de01.Models.LttComputer>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_lttLayout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="LttCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            @* <th>
+                @Html.DisplayNameFor(model => model.lttComName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lttComPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lttComImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lttComStatus)
+            </th> *@
+            <th>
+                Tên
+            </th>
+            <th>
+                Giá
+            </th>
+            <th>
+                Ảnh
+            </th>
+            <th>
+                Trạng thái
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.lttComName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.lttComPrice)
+            </td>
+            <td>
+                    @if (!string.IsNullOrEmpty(item.lttComImage))
+                    {
+                        <img src="~/img/@item.lttComImage" alt="Computer Image" style="max-width:100px; max-height:100px;" />
+                    }
+                @* @Html.DisplayFor(modelItem => item.lttComImage) *@
+            </td>
+            <td>
+                    @(item.lttComStatus ? "Còn hàng" : "Hết hàng")
+                @* @Html.DisplayFor(modelItem => item.lttComStatus) *@
+            </td>
+            <td>
+                <a asp-action="LttEdit" asp-route-id="@item.lttComId">Edit</a> |
+                <a asp-action="LttDetails" asp-route-id="@item.lttComId">Details</a> |
+                <a asp-action="LttDelete" asp-route-id="@item.lttComId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

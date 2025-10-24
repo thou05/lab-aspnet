@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ltt_231230910_de01
+build_property.RootNamespace = ltt_231230910_de01
+build_property.ProjectDir = D:\Document\lab-aspnet\ltt_231230910_de01\ltt_231230910_de01\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Document\lab-aspnet\ltt_231230910_de01\ltt_231230910_de01
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/LttComputers/LttCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTHR0Q29tcHV0ZXJzXEx0dENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/LttComputers/LttDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTHR0Q29tcHV0ZXJzXEx0dERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/LttComputers/LttDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTHR0Q29tcHV0ZXJzXEx0dERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/LttComputers/LttEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTHR0Q29tcHV0ZXJzXEx0dEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/LttComputers/LttIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTHR0Q29tcHV0ZXJzXEx0dEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/LttHome/LttContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTHR0SG9tZVxMdHRDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/LttHome/LttIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTHR0SG9tZVxMdHRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/LttHome/LttPrivacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTHR0SG9tZVxMdHRQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Document/lab-aspnet/ltt_231230910_de01/ltt_231230910_de01/Views/Shared/_lttLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9sdHRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j7dmg9b6b2
