@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab13\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 278,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LearnersController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Controllers\\LearnersController.cs",
+              "RelativeDocumentMoniker": "lab4\\Controllers\\LearnersController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Controllers\\LearnersController.cs",
+              "RelativeToolTip": "lab4\\Controllers\\LearnersController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:55:05.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Program.cs",
+              "RelativeDocumentMoniker": "lab4\\Program.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Program.cs",
+              "RelativeToolTip": "lab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:52:41.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "lab4\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "lab4\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:51:21.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "lab4\\Data\\SchoolContext.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "lab4\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:44:44.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "lab4\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Enrollment.cs",
+              "RelativeToolTip": "lab4\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:43:31.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "lab4\\Models\\Course.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Course.cs",
+              "RelativeToolTip": "lab4\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:43:14.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "lab4\\Models\\Learner.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Learner.cs",
+              "RelativeToolTip": "lab4\\Models\\Learner.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:42:51.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Major.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "lab4\\Models\\Major.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Major.cs",
+              "RelativeToolTip": "lab4\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:42:28.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
