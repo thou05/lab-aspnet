@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab12\\lab02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,28 +55,8 @@
       "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,20 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RenderLeftMenu.cshtml",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "RelativeDocumentMoniker": "lab02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "RelativeToolTip": "lab02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:56:45.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "RenderViewComponent.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\ViewComponents\\RenderViewComponent.cs",
               "RelativeDocumentMoniker": "lab02\\ViewComponents\\RenderViewComponent.cs",
@@ -103,12 +94,11 @@
               "RelativeToolTip": "lab02\\ViewComponents\\RenderViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:53:21.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:53:21.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "MenuItem.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\MenuItem.cs",
               "RelativeDocumentMoniker": "lab02\\Models\\MenuItem.cs",
@@ -116,25 +106,72 @@
               "RelativeToolTip": "lab02\\Models\\MenuItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:52:01.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:52:01.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "lab02\\Views\\Student\\Create.cshtml",
               "ToolTip": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "lab02\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:44:20.358Z",
+              "WhenOpened": "2025-11-07T01:44:20.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "lab02\\Models\\Student.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\Student.cs",
+              "RelativeToolTip": "lab02\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:42:17.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "lab02\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "lab02\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:42:56.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "RenderLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "lab02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeToolTip": "lab02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:56:45.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "lab02\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "lab02\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T02:19:00.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "lab02\\Views\\Student\\Index.cshtml",
@@ -142,38 +179,11 @@
               "RelativeToolTip": "lab02\\Views\\Student\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:43:49.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:43:49.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "lab02\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "lab02\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwEYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:42:56.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "lab02\\Models\\Student.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\Student.cs",
-              "RelativeToolTip": "lab02\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:42:17.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Gender.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "lab02\\Models\\Gender.cs",
@@ -181,12 +191,11 @@
               "RelativeToolTip": "lab02\\Models\\Gender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:42:12.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:42:12.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "Branch.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\Branch.cs",
               "RelativeDocumentMoniker": "lab02\\Models\\Branch.cs",
@@ -194,12 +203,11 @@
               "RelativeToolTip": "lab02\\Models\\Branch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:42:04.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:42:04.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Footer.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Shared\\Footer.cshtml",
               "RelativeDocumentMoniker": "lab02\\Views\\Shared\\Footer.cshtml",
@@ -207,12 +215,11 @@
               "RelativeToolTip": "lab02\\Views\\Shared\\Footer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:39:48.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:39:48.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "LeftMenu.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Shared\\LeftMenu.cshtml",
               "RelativeDocumentMoniker": "lab02\\Views\\Shared\\LeftMenu.cshtml",
@@ -220,12 +227,11 @@
               "RelativeToolTip": "lab02\\Views\\Shared\\LeftMenu.cshtml",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:38:28.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:38:28.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "TopNav.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Shared\\TopNav.cshtml",
               "RelativeDocumentMoniker": "lab02\\Views\\Shared\\TopNav.cshtml",
@@ -233,12 +239,11 @@
               "RelativeToolTip": "lab02\\Views\\Shared\\TopNav.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:35:33.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:35:33.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "lab02\\Views\\Home\\Index.cshtml",
@@ -246,12 +251,11 @@
               "RelativeToolTip": "lab02\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:27:26.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:27:26.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "MyLayout.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Shared\\MyLayout.cshtml",
               "RelativeDocumentMoniker": "lab02\\Views\\Shared\\MyLayout.cshtml",
@@ -259,8 +263,7 @@
               "RelativeToolTip": "lab02\\Views\\Shared\\MyLayout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:27:12.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:27:12.58Z"
             }
           ]
         },

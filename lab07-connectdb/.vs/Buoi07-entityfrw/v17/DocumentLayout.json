@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab07-connectdb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\lab-aspnet\\lab07-connectdb\\buoi07-entityfrw\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\lab-aspnet\\lab07-connectdb\\buoi07-entityfrw\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\lab-aspnet\\lab07-connectdb\\buoi07-entityfrw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\lab-aspnet\\lab07-connectdb\\buoi07-entityfrw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\lab-aspnet\\lab07-connectdb\\buoi07-entityfrw\\views\\loaisanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\views\\loaisanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\lab-aspnet\\lab07-connectdb\\buoi07-entityfrw\\views\\loaisanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\views\\loaisanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\lab-aspnet\\lab07-connectdb\\buoi07-entityfrw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\lab-aspnet\\lab07-connectdb\\buoi07-entityfrw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\lab-aspnet\\lab07-connectdb\\buoi07-entityfrw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\lab-aspnet\\lab07-connectdb\\buoi07-entityfrw\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|d:\\document\\lab-aspnet\\lab07-connectdb\\buoi07-entityfrw\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAED0126-E336-4BD2-8EF2-37A390486AFB}|Buoi07-entityfrw\\Buoi07-entityfrw.csproj|solutionrelative:buoi07-entityfrw\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,6 +90,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\SanPham.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Models\\SanPham.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:55:09.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\appsettings.json",
@@ -94,11 +111,12 @@
               "RelativeToolTip": "Buoi07-entityfrw\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-03T01:59:13.264Z"
+              "WhenOpened": "2025-10-03T01:59:13.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Views\\Shared\\_Layout.cshtml",
@@ -110,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Views\\Home\\Index.cshtml",
@@ -122,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Views\\LoaiSanPhams\\Create.cshtml",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Views\\LoaiSanPhams\\Create.cshtml",
@@ -134,12 +152,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Views\\LoaiSanPhams\\Index.cshtml",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Views\\LoaiSanPhams\\Index.cshtml",
@@ -151,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "LoaiSanPhamsController.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Controllers\\LoaiSanPhamsController.cs",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Controllers\\LoaiSanPhamsController.cs",
@@ -163,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "SanPhamsController.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Controllers\\SanPhamsController.cs",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Controllers\\SanPhamsController.cs",
@@ -175,7 +189,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Program.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Program.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T00:56:38.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
+              "RelativeToolTip": "Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:23:55.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CtHoaDon.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Models\\CtHoaDon.cs",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\CtHoaDon.cs",
@@ -187,19 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Program.cs",
-              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Program.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Program.cs",
-              "RelativeToolTip": "Buoi07-entityfrw\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T00:56:38.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Controllers\\HomeController.cs",
@@ -211,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "KhachHang.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Models\\KhachHang.cs",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\KhachHang.cs",
@@ -223,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\ErrorViewModel.cs",
@@ -235,19 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoaiSanPham.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
-              "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
-              "RelativeToolTip": "Buoi07-entityfrw\\Models\\LoaiSanPham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T01:23:55.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HoaDon.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Models\\HoaDon.cs",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\HoaDon.cs",
@@ -259,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "WebDbContext.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab07-connectdb\\Buoi07-entityfrw\\Models\\WebDbContext.cs",
               "RelativeDocumentMoniker": "Buoi07-entityfrw\\Models\\WebDbContext.cs",
@@ -268,6 +288,24 @@
               "ViewState": "AgIAABEAAAAAAAAAAAA9wCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T01:23:28.761Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1038,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

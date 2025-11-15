@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab9-codefirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ac267a7d86503b5104ecc4267202741b0fc137a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d04d27a4a98162f981de6447a6a27e2ccb1cf366")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab9-codefirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab9-codefirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

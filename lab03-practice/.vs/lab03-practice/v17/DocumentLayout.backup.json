@@ -97,9 +97,9 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "lab03-practice\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "lab03-practice\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab03-practice\\lab03-practice\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "lab03-practice\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-04T14:21:56.886Z",
               "EditorCaption": ""
@@ -114,8 +114,7 @@
               "RelativeToolTip": "lab03-practice\\Views\\Category\\Category.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T14:30:15.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:30:15.647Z"
             },
             {
               "$type": "Document",
@@ -127,8 +126,7 @@
               "RelativeToolTip": "lab03-practice\\Views\\Shared\\mylayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T14:17:14.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T14:17:14.14Z"
             },
             {
               "$type": "Document",
