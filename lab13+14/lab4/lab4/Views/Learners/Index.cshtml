@@ -1,0 +1,79 @@
+﻿@model IEnumerable<lab4.Models.Learner>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@await Component.InvokeAsync("Major")
+<div id="content">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.LastName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FirstMidName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EnrollmentDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Major)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FirstMidName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EnrollmentDate)
+                    </td>
+                    <td>
+                        @if (item.Major != null)
+                        {
+                            @Html.DisplayFor(modelItem => item.Major.MajorName)
+                        }
+                        else
+                        {
+                            <span>-</span>
+                        }
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.LearnerID">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.LearnerID">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.LearnerID">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts{
+    <script>
+        $("li").click(function(e){
+            var id = $(this).attr("id");
+            $.ajax({
+                url: "/Learners/LearnerByMajorID",
+                data: { mid : id },
+                success: function(response){
+                    $("div#content").html(response);
+                }
+            });
+        });
+    </script>
+}
