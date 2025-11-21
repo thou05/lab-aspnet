@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab12\\lab02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +27,12 @@
       "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|solutionrelative:lab02\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9481A30-BC11-4F3D-921E-7E5002509EAF}|lab02\\lab02.csproj|d:\\document\\lab-aspnet\\lab12\\lab02\\lab02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "RenderViewComponent.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\ViewComponents\\RenderViewComponent.cs",
               "RelativeDocumentMoniker": "lab02\\ViewComponents\\RenderViewComponent.cs",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MenuItem.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\MenuItem.cs",
               "RelativeDocumentMoniker": "lab02\\Models\\MenuItem.cs",
@@ -106,11 +106,12 @@
               "RelativeToolTip": "lab02\\Models\\MenuItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:52:01.87Z"
+              "WhenOpened": "2025-11-07T01:52:01.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "lab02\\Views\\Student\\Create.cshtml",
@@ -122,19 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\Student.cs",
               "RelativeDocumentMoniker": "lab02\\Models\\Student.cs",
               "ToolTip": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\Student.cs",
               "RelativeToolTip": "lab02\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:42:17.484Z"
+              "WhenOpened": "2025-11-07T01:42:17.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "lab02\\Controllers\\StudentController.cs",
@@ -147,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RenderLeftMenu.cshtml",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "RelativeDocumentMoniker": "lab02\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
@@ -183,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Gender.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "lab02\\Models\\Gender.cs",
@@ -191,11 +193,12 @@
               "RelativeToolTip": "lab02\\Models\\Gender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:42:12.286Z"
+              "WhenOpened": "2025-11-07T01:42:12.286Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Branch.cs",
               "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Models\\Branch.cs",
               "RelativeDocumentMoniker": "lab02\\Models\\Branch.cs",
@@ -203,7 +206,8 @@
               "RelativeToolTip": "lab02\\Models\\Branch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:42:04.916Z"
+              "WhenOpened": "2025-11-07T01:42:04.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

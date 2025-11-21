@@ -94,8 +94,7 @@
               "RelativeToolTip": "lab02\\ViewComponents\\RenderViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:53:21.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:53:21.342Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "RelativeToolTip": "lab02\\Views\\Student\\Create.cshtml",
               "ViewState": "AgIAADUAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:44:20.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:44:20.358Z"
             },
             {
               "$type": "Document",
@@ -132,8 +130,7 @@
               "RelativeToolTip": "lab02\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:42:17.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:42:17.484Z"
             },
             {
               "$type": "Document",
@@ -143,7 +140,7 @@
               "RelativeDocumentMoniker": "lab02\\Controllers\\StudentController.cs",
               "ToolTip": "D:\\Document\\lab-aspnet\\lab12\\lab02\\lab02\\Controllers\\StudentController.cs",
               "RelativeToolTip": "lab02\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwBQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T01:42:56.455Z",
               "EditorCaption": ""

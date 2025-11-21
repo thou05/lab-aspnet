@@ -1,85 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab13\\lab4\\",
+  "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\views\\learners\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\views\\learners\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\views\\learners\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\views\\learners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\views\\learners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\views\\learners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\\lab4\\lab4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|d:\\document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB2A64-9B2D-4A7D-9BA3-5E9F049EA1DD}|lab4\\lab4.csproj|solutionrelative:lab4\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -108,11 +108,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Learners\\Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Learners\\Index.cshtml",
               "RelativeDocumentMoniker": "lab4\\Views\\Learners\\Index.cshtml",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Learners\\Index.cshtml*",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Learners\\Index.cshtml*",
               "RelativeToolTip": "lab4\\Views\\Learners\\Index.cshtml*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwEIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwIYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-15T14:24:59.287Z",
               "EditorCaption": ""
@@ -120,205 +120,192 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RenderMajor.cshtml",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
-              "RelativeDocumentMoniker": "lab4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
-              "RelativeToolTip": "lab4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T14:21:05.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "RenderLeftMenu.cshtml",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "RelativeDocumentMoniker": "lab4\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "RelativeToolTip": "lab4\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T14:18:11.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T14:18:11.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LearnerTable.cshtml",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Learners\\LearnerTable.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Learners\\LearnerTable.cshtml",
               "RelativeDocumentMoniker": "lab4\\Views\\Learners\\LearnerTable.cshtml",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Learners\\LearnerTable.cshtml",
-              "RelativeToolTip": "lab4\\Views\\Learners\\LearnerTable.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Learners\\LearnerTable.cshtml*",
+              "RelativeToolTip": "lab4\\Views\\Learners\\LearnerTable.cshtml*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-15T14:33:35.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LearnersController.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Controllers\\LearnersController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Controllers\\LearnersController.cs",
               "RelativeDocumentMoniker": "lab4\\Controllers\\LearnersController.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Controllers\\LearnersController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Controllers\\LearnersController.cs",
               "RelativeToolTip": "lab4\\Controllers\\LearnersController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwC0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T14:55:05.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RenderMajor.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "RelativeDocumentMoniker": "lab4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "RelativeToolTip": "lab4\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T14:21:05.373Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Major.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Major.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\Major.cs",
               "RelativeDocumentMoniker": "lab4\\Models\\Major.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Major.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\Major.cs",
               "RelativeToolTip": "lab4\\Models\\Major.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T14:42:28.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T14:42:28.967Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MenuItem.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\MenuItem.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\MenuItem.cs",
               "RelativeDocumentMoniker": "lab4\\Models\\MenuItem.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\MenuItem.cs",
               "RelativeToolTip": "lab4\\Models\\MenuItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:15:05.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T14:15:05.513Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "MajorViewComponent.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\ViewComponents\\MajorViewComponent.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\ViewComponents\\MajorViewComponent.cs",
               "RelativeDocumentMoniker": "lab4\\ViewComponents\\MajorViewComponent.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\ViewComponents\\MajorViewComponent.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\ViewComponents\\MajorViewComponent.cs",
               "RelativeToolTip": "lab4\\ViewComponents\\MajorViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:16:18.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T14:16:18.913Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "RenderViewComponent.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\ViewComponents\\RenderViewComponent.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\ViewComponents\\RenderViewComponent.cs",
               "RelativeDocumentMoniker": "lab4\\ViewComponents\\RenderViewComponent.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\ViewComponents\\RenderViewComponent.cs",
               "RelativeToolTip": "lab4\\ViewComponents\\RenderViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:14:32.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T14:14:32.276Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "lab4\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "lab4\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T14:42:22.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T14:42:22.742Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Learner.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Learner.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\Learner.cs",
               "RelativeDocumentMoniker": "lab4\\Models\\Learner.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Learner.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\Learner.cs",
               "RelativeToolTip": "lab4\\Models\\Learner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T14:42:51.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T14:42:51.098Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "lab4\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "lab4\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:12:38.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T14:12:38.758Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Enrollment.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Enrollment.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "lab4\\Models\\Enrollment.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\Enrollment.cs",
               "RelativeToolTip": "lab4\\Models\\Enrollment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T14:43:31.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T14:43:31.62Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Course.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Course.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\Course.cs",
               "RelativeDocumentMoniker": "lab4\\Models\\Course.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Models\\Course.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Models\\Course.cs",
               "RelativeToolTip": "lab4\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T14:43:14.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T14:43:14.343Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Learners\\Details.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Learners\\Details.cshtml",
               "RelativeDocumentMoniker": "lab4\\Views\\Learners\\Details.cshtml",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Learners\\Details.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Learners\\Details.cshtml",
               "RelativeToolTip": "lab4\\Views\\Learners\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T14:19:52.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T14:19:52.91Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Learners\\Delete.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Learners\\Delete.cshtml",
               "RelativeDocumentMoniker": "lab4\\Views\\Learners\\Delete.cshtml",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Learners\\Delete.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Learners\\Delete.cshtml",
               "RelativeToolTip": "lab4\\Views\\Learners\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T15:20:51.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T15:20:51.391Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Program.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Program.cs",
               "RelativeDocumentMoniker": "lab4\\Program.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Program.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Program.cs",
               "RelativeToolTip": "lab4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,9 +315,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Learners\\Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Learners\\Create.cshtml",
               "RelativeDocumentMoniker": "lab4\\Views\\Learners\\Create.cshtml",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Views\\Learners\\Create.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Learners\\Create.cshtml",
               "RelativeToolTip": "lab4\\Views\\Learners\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -340,9 +327,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "DbInitializer.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Data\\DbInitializer.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "lab4\\Data\\DbInitializer.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Data\\DbInitializer.cs",
               "RelativeToolTip": "lab4\\Data\\DbInitializer.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAgwCIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,9 +339,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "SchoolContext.cs",
-              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Data\\SchoolContext.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Data\\SchoolContext.cs",
               "RelativeDocumentMoniker": "lab4\\Data\\SchoolContext.cs",
-              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\\lab4\\lab4\\Data\\SchoolContext.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Data\\SchoolContext.cs",
               "RelativeToolTip": "lab4\\Data\\SchoolContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
