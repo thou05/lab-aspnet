@@ -112,7 +112,7 @@
               "RelativeDocumentMoniker": "lab4\\Views\\Learners\\Index.cshtml",
               "ToolTip": "D:\\Document\\lab-aspnet\\lab13\u002B14\\lab4\\lab4\\Views\\Learners\\Index.cshtml",
               "RelativeToolTip": "lab4\\Views\\Learners\\Index.cshtml",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAwFkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-15T14:24:59.287Z",
               "EditorCaption": ""
@@ -139,8 +139,7 @@
               "RelativeToolTip": "lab4\\Views\\Learners\\LearnerTable.cshtml",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwEMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T14:33:35.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T14:33:35.193Z"
             },
             {
               "$type": "Document",
@@ -152,8 +151,7 @@
               "RelativeToolTip": "lab4\\Controllers\\LearnersController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAAEwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T14:55:05.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T14:55:05.459Z"
             },
             {
               "$type": "Document",
